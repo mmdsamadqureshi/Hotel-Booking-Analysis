@@ -556,3 +556,7 @@ Possible extensions:
 # 📌 Conclusion
 
 This project demonstrates an end-to-end analytics workflow—from raw data cleaning to business recommendations. It emphasizes that successful data analysis is not just about creating charts, but about transforming data into insights that help businesses make better decisions.
+
+> **Project Ownership**
+>
+> This is an independently executed end-to-end data analytics project. All stages of the analysis—from data preprocessing and exploratory analysis to deriving business insights and recommendations—were completed by me.
